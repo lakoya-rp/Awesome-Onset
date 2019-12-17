@@ -2,7 +2,11 @@
 A list of awesome tools for Onset Game
 
 *If you have a tool you want to add, open a Pull Request or Issues*
-## Content
+## Table of contents :
+- [Frameworks](#frameworks-)
+- [Tools](#tools)
+- [Tutorials](#tutorials)
+- [Where to find support ?](#where-to-find-support-)
 
 ### Frameworks :
 - [Onset RP](https://github.com/frederic2ec/onsetrp) - A framework made by [frederic2ec](https://github.com/frederic2ec) to create Role-play servers.
