@@ -1,4 +1,4 @@
-<img src="https://playonset.com/images/Onset.png" style="width:20%" style="margin-left: auto">
+<img src="https://playonset.com/images/Onset.png" style="width:20%;" style="margin-left: auto;" style="margin-right: auto;" style="display: block;">
 <br>
 
 # Awesome-Onset
