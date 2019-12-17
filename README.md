@@ -1,3 +1,6 @@
+<img src="https://playonset.com/images/Onset.png" style="width:50%" style="margin-left: auto">
+<br>
+
 # Awesome-Onset
 A list of awesome tools for Onset Game
 
