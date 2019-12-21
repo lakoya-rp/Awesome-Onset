@@ -24,7 +24,7 @@ A list of awesome tools for Onset Game
 - [Package Manager](https://forum.playonset.com/forum/onset/scripting/releases/1009-package-manager) - Are you tired of restarting the server at every modification of your script ? This tool is made for you.
 - [Server Signature Stats](https://github.com/BlueMountainsIO/OnsetServerSignature) - PHP script that queries an Onset server, and show the data on a generated PNG.
 - [Onset Animation](https://github.com/REDRUM112/OnSet-Animations) - Onset has a lot of animations. Use them with this script.
-
+- [Onset Camera](https://github.com/dig/onset-camera-library) - Build cinematic with this library !
 
 ### Tutorials
 - [Jan Bebendorf](https://www.youtube.com/watch?v=zmGGCxV2Li8&list=PLvXRXgrNWWe7BBEdsCrNU03_YiaHnngZu) - A complete tutorial with car lock system, and database connection.
