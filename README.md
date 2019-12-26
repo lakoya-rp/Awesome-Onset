@@ -25,7 +25,12 @@ A list of awesome tools for Onset Game
 - [Server Signature Stats](https://github.com/BlueMountainsIO/OnsetServerSignature) - PHP script that queries an Onset server, and show the data on a generated PNG.
 - [Onset Animation](https://github.com/REDRUM112/OnSet-Animations) - Onset has a lot of animations. Use them with this script.
 - [Onset Camera](https://github.com/dig/onset-camera-library) - Build cinematic with this library !
-- [Onset Phone](https://github.com/rdlh/onset-phone) - A phone for sending messages via a beautiful UI. Works with Onset RP Framework
+- [Onset Phone](https://github.com/rdlh/onset-phone) - A phone for sending messages via a beautiful UI. Works with Onset RP Framework.
+- [SeatD](https://forum.playonset.com/forum/onset/scripting/releases/1459-seatd-change-places-in-the-vehicle-without-leaving-there) - Change vehicle's places with not leaving them.
+- [Tazer Ragdoll](https://forum.playonset.com/forum/onset/scripting/releases/1499-tazer-ragdoll-tazer-actually-working) - Tazer doesn't work ? Use this tool to ragdoll and freeze players who have been tazed.
+- [Object Interaction](https://forum.playonset.com/forum/onset/scripting/releases/1517-object-interaction) - This tool adds interaction with objects. You can put them in your hands or in your vehicle.
+- [No Clip](https://forum.playonset.com/forum/onset/scripting/releases/1504-noclip-script) - Useful for admin. Become God and fly trought walls.
+- [Radio](https://forum.playonset.com/forum/onset/scripting/releases/1503-ingame-radio-music-in-cars-while-on-the-road) - Add some MP3 songs, and listen them in your favorite vehicle.
 
 ### Tutorials
 - [Jan Bebendorf](https://www.youtube.com/watch?v=zmGGCxV2Li8&list=PLvXRXgrNWWe7BBEdsCrNU03_YiaHnngZu) - A complete tutorial with car lock system, and database connection.
