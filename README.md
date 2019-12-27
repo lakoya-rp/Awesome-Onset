@@ -32,6 +32,11 @@ A list of awesome tools for Onset Game
 - [No Clip](https://forum.playonset.com/forum/onset/scripting/releases/1504-noclip-script) - Useful for admin. Become God and fly trought walls.
 - [Radio](https://forum.playonset.com/forum/onset/scripting/releases/1503-ingame-radio-music-in-cars-while-on-the-road) - Add some MP3 songs, and listen them in your favorite vehicle.
 
+### Libraries
+- [Camera](https://github.com/dig/onset-camera-library) - Camera utilities, pan and path a camera around the world.
+- [HTTP](https://github.com/dig/onset-http-library) - Send HTTP requests from the server, useful for API communication.
+- [Data](https://github.com/dig/onset-data) - Weapon, vehicle names all converted and have Lua variables. WEAPON_COLT, etc.
+
 ### Tutorials
 - [Jan Bebendorf](https://www.youtube.com/watch?v=zmGGCxV2Li8&list=PLvXRXgrNWWe7BBEdsCrNU03_YiaHnngZu) - A complete tutorial with car lock system, and database connection.
 - [Open Mailbox](https://www.youtube.com/watch?v=6ShqEIQyj60) - Tutorial on Hello World, how to connect to a database, and user interface.
