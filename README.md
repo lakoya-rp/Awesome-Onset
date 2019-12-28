@@ -18,9 +18,6 @@ A list of awesome tools for Onset Game
 - [Sandbox Editor](https://github.com/dig/onset-sandbox-editor) - A tool made by [Dig](https://github.com/dig) to create Sandbox (Map Editor, World Saving, Camera, Spawn, etc.)
 
 ### Tools
-- [Dialog UI](https://github.com/OnfireNetwork/dialogui) - A tool that helps to simplify the creation of UI
-- [Kuz UI](https://github.com/Kuzkay/OkayyNetwork/tree/master/kuz_UI) - A tool that helps to simplify the creation of UI
-- [Kuz Notification](https://github.com/Kuzkay/OkayyNetwork/tree/master/kuz_Notifications) - A tool for sending notifications
 - [Package Manager](https://forum.playonset.com/forum/onset/scripting/releases/1009-package-manager) - Are you tired of restarting the server at every modification of your script ? This tool is made for you.
 - [Server Signature Stats](https://github.com/BlueMountainsIO/OnsetServerSignature) - PHP script that queries an Onset server, and show the data on a generated PNG.
 - [Onset Animation](https://github.com/REDRUM112/OnSet-Animations) - Onset has a lot of animations. Use them with this script.
@@ -33,7 +30,9 @@ A list of awesome tools for Onset Game
 - [Radio](https://forum.playonset.com/forum/onset/scripting/releases/1503-ingame-radio-music-in-cars-while-on-the-road) - Add some MP3 songs, and listen them in your favorite vehicle.
 
 ### Libraries
-- [Camera](https://github.com/dig/onset-camera-library) - Camera utilities, pan and path a camera around the world.
+- [Dialog UI](https://github.com/OnfireNetwork/dialogui) - A tool that helps to simplify the creation of UI
+- [Kuz UI](https://github.com/Kuzkay/OkayyNetwork/tree/master/kuz_UI) - A tool that helps to simplify the creation of UI
+- [Kuz Notification](https://github.com/Kuzkay/OkayyNetwork/tree/master/kuz_Notifications) - A tool for sending notifications
 - [HTTP](https://github.com/dig/onset-http-library) - Send HTTP requests from the server, useful for API communication.
 - [Data](https://github.com/dig/onset-data) - Weapon, vehicle names all converted and have Lua variables. WEAPON_COLT, etc.
 
