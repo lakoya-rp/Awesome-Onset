@@ -8,6 +8,7 @@ A list of awesome tools for Onset Game
 ## Table of contents :
 - [Frameworks](#frameworks-)
 - [Tools](#tools)
+- [Libraries](#Libraries)
 - [Tutorials](#tutorials)
 - [Where to find support ?](#where-to-find-support-)
 
