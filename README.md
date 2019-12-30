@@ -36,7 +36,7 @@ A list of awesome tools for Onset Game
 - [Dialog UI](https://github.com/OnfireNetwork/dialogui) - A tool that helps to simplify the creation of UI
 - [Kuz UI](https://github.com/Kuzkay/OkayyNetwork/tree/master/kuz_UI) - A tool that helps to simplify the creation of UI
 - [Kuz Notification](https://github.com/Kuzkay/OkayyNetwork/tree/master/kuz_Notifications) - A tool for sending notifications
-- [HTTP](https://github.com/dig/onset-http-library) - Send HTTP requests from the server, useful for API communication.
+- [HTTP](https://github.com/dig/onset-http-plugin) - Send HTTP requests from the server, useful for API communication.
 - [Data](https://github.com/dig/onset-data) - Weapon, vehicle names all converted and have Lua variables. WEAPON_COLT, etc.
 
 ### Tutorials
