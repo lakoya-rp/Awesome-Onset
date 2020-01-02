@@ -31,6 +31,8 @@ A list of awesome tools for Onset Game
 - [Radio](https://forum.playonset.com/forum/onset/scripting/releases/1503-ingame-radio-music-in-cars-while-on-the-road) - Add some MP3 songs, and listen them in your favorite vehicle.
 - [Zombies](https://github.com/Bambofy/OnsetZombies) - Spawn zombies on the map. Be careful, they are ready to fight.
 - [Onset's VSCode Snippets](https://github.com/zoukidev/vscode-olua) - Speed up the creation of scripts !
+- [ID card](https://github.com/SphinxReal/idcard-onset) - Add ID card for your server. Useful for RP based servers.
+- [Construction](https://forum.playonset.com/forum/onset/scripting/releases/1673-onset-construction) - Move objects more simply.
 
 ### Libraries
 - [Dialog UI](https://github.com/OnfireNetwork/dialogui) - A tool that helps to simplify the creation of UI
