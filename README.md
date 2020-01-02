@@ -44,6 +44,9 @@ A list of awesome tools for Onset Game
 ### Tutorials
 - [Jan Bebendorf](https://www.youtube.com/watch?v=zmGGCxV2Li8&list=PLvXRXgrNWWe7BBEdsCrNU03_YiaHnngZu) - A complete tutorial with car lock system, and database connection.
 - [Open Mailbox](https://www.youtube.com/watch?v=6ShqEIQyj60) - Tutorial on Hello World, how to connect to a database, and user interface.
+- [Server Installation FR](https://www.youtube.com/watch?v=xmKRKvlTFtU) - 🇫🇷 Learn how to install an Onset serveur on Windows.
+- [Microphone BUG](https://www.youtube.com/watch?v=f1wVhv5DwoY) - Resolve how to fix microphone issues in Onset.
+- [3DS Max modding](https://www.youtube.com/watch?v=huiDdRx1ebQ) - Learn how to convert mods from 3DS Max to Onset
 
 
 ### Where to find support ?
