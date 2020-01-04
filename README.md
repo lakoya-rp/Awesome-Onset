@@ -17,6 +17,7 @@ A list of awesome tools for Onset Game
 - [Okayy Framework](https://github.com/Kuzkay/OkayyNetwork/tree/master/OKAYY%20Framework%20Basic) - A framework made by [Kuzkay](https://github.com/Kuzkay) to create Role-Play servers. Used by Okayy Network.
 - [GodFather](https://github.com/OnfireNetwork/godfather) - An Onset gamemode that is based of the godfather gamemode from samp. 
 - [Sandbox Editor](https://github.com/dig/onset-sandbox-editor) - A tool made by [Dig](https://github.com/dig) to create Sandbox (Map Editor, World Saving, Camera, Spawn, etc.)
+- [Onset Zeus](https://github.com/DasDarki/onset-zeus) - Zeus is an administrative tool module based.
 
 ### Tools
 - [Package Manager](https://forum.playonset.com/forum/onset/scripting/releases/1009-package-manager) - Are you tired of restarting the server at every modification of your script ? This tool is made for you.
