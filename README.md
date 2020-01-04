@@ -41,6 +41,7 @@ A list of awesome tools for Onset Game
 - [Kuz Notification](https://github.com/Kuzkay/OkayyNetwork/tree/master/kuz_Notifications) - A tool for sending notifications
 - [HTTP](https://github.com/dig/onset-http-plugin) - Send HTTP requests from the server, useful for API communication.
 - [Data](https://github.com/dig/onset-data) - Weapon, vehicle names all converted and have Lua variables. WEAPON_COLT, etc.
+- [Burdigalax GUI](https://github.com/Burdigalax/BurdigalaxGUI) - Awesome UI for shops and gaz stations.
 
 ### Tutorials
 - [Jan Bebendorf](https://www.youtube.com/watch?v=zmGGCxV2Li8&list=PLvXRXgrNWWe7BBEdsCrNU03_YiaHnngZu) - A complete tutorial with car lock system, and database connection.
