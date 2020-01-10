@@ -42,6 +42,11 @@ A list of awesome tools for Onset Game
 - [HTTP](https://github.com/dig/onset-http-plugin) - Send HTTP requests from the server, useful for API communication.
 - [Data](https://github.com/dig/onset-data) - Weapon, vehicle names all converted and have Lua variables. WEAPON_COLT, etc.
 - [Burdigalax GUI](https://github.com/Burdigalax/BurdigalaxGUI) - Awesome UI for shops and gaz stations.
+- [Onset Pickup](https://github.com/TimUK/OnsetPickups) - Simple Pickups
+- [UI Framework](https://github.com/FlowPX3/UIFramework) - Create UI more simply
+
+### Assets
+- [Kemset's Assets](https://kemset2.wixsite.com/kemset) - List of assets from KemSet
 
 ### Tutorials
 - [Jan Bebendorf](https://www.youtube.com/watch?v=zmGGCxV2Li8&list=PLvXRXgrNWWe7BBEdsCrNU03_YiaHnngZu) - A complete tutorial with car lock system, and database connection.
